@@ -1,2 +1,2 @@
-# AI-Brev--Prompt
-AI速览公众号发表Prompt合集
+# AI-Brev-Prompt
+「AI速览」公众号发表Prompt合集
